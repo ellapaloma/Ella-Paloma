@@ -1,0 +1,8 @@
+{
+  "name": "Alumni Tracer CRM & Decision Support System",
+  "description": "Comprehensive tracer CRM that tracks alumni career paths, conducts Gemini-powered verticality and alignment analysis, drives curriculum decision-making, and manages automated survey outreach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
